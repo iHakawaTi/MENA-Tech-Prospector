@@ -1,0 +1,6 @@
+apify-client>=1.8.1
+python-dotenv>=1.0.1
+pydantic>=2.5.3
+playwright>=1.41.0
+httpx>=0.26.0
+beautifulsoup4>=4.12.3
